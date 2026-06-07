@@ -66,6 +66,7 @@ Open source RISC-V cores with proper documentation.
 - [Minerva](https://github.com/lambdaconcept/minerva) - 32-bit RISC-V soft processor.
 - [MR1](https://github.com/tomverbeure/mr1) - Minimal RISC-V RV32I core implemented in SpinalHDL.
 - [mriscv](https://github.com/onchipuis/mriscv) - 32-bit pipelined RISC-V processor implemented in Verilog.
+- [NaxRiscv](https://github.com/SpinalHDL/NaxRiscv) (RV32/RV64)IMAFDCSU out-of-order superscalar RISC-V core written in SpinalHDL.
 - [NEORV32](https://github.com/stnolting/neorv32) - Customizable, extensible MCU-class 32-bit soft-core CPU and SoC written in VHDL.
 - [NutShell](https://github.com/OSCPU/NutShell) - RISC-V processor developed by the University of Chinese Academy of Sciences.
 - [OpenPiton](https://github.com/PrincetonUniversity/openpiton) - World's first open source, general purpose, multithreaded manycore processor.
@@ -99,6 +100,7 @@ Open source RISC-V cores with proper documentation.
 - [Tiny Risc-V](https://github.com/liangkangnan/tinyriscv) - Easy-to-understand, from-scratch RISC-V implementation written in Verilog.
 - [VeeR EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - CHIPS Alliance VeeR EL2 RISC-V Core; the actively maintained successor to the Western Digital SweRV family.
 - [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - FPGA-friendly 32-bit RISC-V implementation written in SpinalHDL.
+- [VexiiRiscv](https://github.com/SpinalHDL/VexiiRiscv) Rewrite of VexRiscv with optional multiple issues and new write-back cache.
 - [Wally (CVW)](https://github.com/openhwgroup/cvw) - CORE-V Wally: a configurable, 5-stage-pipeline RISC-V processor associated with the *RISC-V System-on-Chip Design* textbook by Harris et al.
 - [WARP-V](https://github.com/stevehoover/warp-v) - Open-source RISC-V core IP you can shape to your needs.
 - [XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance out-of-order RISC-V processor developed at the Institute of Computing Technology, Chinese Academy of Sciences.
