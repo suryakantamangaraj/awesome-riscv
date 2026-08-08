@@ -148,6 +148,7 @@ Open source Emulators and Simulators for designing and testing RISC-V systems.
 - [FuseSoC](https://github.com/olofk/fusesoc) - Award-winning package manager and build tool set for HDL projects.
 - [GAP8 SDK](https://github.com/GreenWaves-Technologies/gap_sdk) - SDK for the GAP8 RISC-V multi-core IoT application processor by GreenWaves Technologies.
 - [gem5](https://github.com/gem5/gem5) - The gem5 computer-system architecture simulator; widely used in academia for RISC-V microarchitecture research.
+- [Mehrtakt-Abenteuer](https://github.com/GGalya1/riscv-architecture-educational-game) - An open-source educational Unity game for learning RISC-V multi-cycle processor architecture through interactive gameplay.
 - [QEMU](https://github.com/qemu/qemu) - The leading open-source machine emulator and virtualizer; supports both RV32 and RV64 system and user-mode emulation.
 - [RARS](https://github.com/TheThirdOne/rars) - RISC-V Assembler and Runtime Simulator.
 - [Renode](https://github.com/renode/renode) - Antmicro's open-source simulation framework with excellent RISC-V support; ideal for embedded and multi-core prototyping.
