@@ -85,6 +85,7 @@ Open source RISC-V cores with proper documentation.
 - [RV01](https://opencores.org/projects/rv01_riscv_core) - Pipelined RV32I implementation on OpenCores targeting FPGAs.
 - [RV12](https://github.com/roalogic/RV12) - Single-issue, in-order RV32I/RV64I RISC-V core from RoaLogic.
 - [Sail RISC-V](https://github.com/rems-project/sail-riscv) - RISCV Sail Model.
+- [Sargantana](https://github.com/bsc-loca/sargantana) - Open-source in order RISC-V core developed at Barcelona Supercomputing Center.
 - [SCR1](https://github.com/syntacore/scr1) - Free and open-source MCU-class RISC-V core from Syntacore.
 - [SERV](https://github.com/olofk/serv) - Award-winning ultra-compact bit-serial RISC-V core.
 - [Shakti C-Class](https://gitlab.com/shaktiproject/cores/c-class) - Application-class 64-bit RISC-V core from IIT Madras.
