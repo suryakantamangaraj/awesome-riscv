@@ -38,6 +38,8 @@ Open source implementations of the RISC-V architecture.
 - [DANA](https://github.com/bu-icsg/dana) - Dynamically Allocated Neural Network (DANA) Accelerator.
 
 ### Cores
+- [riscv-ooo-core](https://github.com/devtyagi3909/riscv-ooo-core) - Dual-issue out-of-order superscalar RV32I processor with Tomasulo's algorithm. Target: 250 MHz.
+
 
 Open source RISC-V cores with proper documentation.
 
