@@ -60,6 +60,7 @@ Open source RISC-V cores with proper documentation.
 - [KLESSYDRA-T13](https://github.com/klessydra/T13x) - Interleaved multithreaded RISC-V processor (T13 variant).
 - [Kronos](https://github.com/SonalPinto/kronos) - Lightweight, 3-stage in-order RV32I pipeline written in SystemVerilog.
 - [Leros](https://github.com/leros-dev/leros) - Tiny accumulator-based processor core targeting FPGAs.
+- [LibreCore](https://github.com/etcimon/GSys-LibreCore) - CVA6-derived, Linux-capable 64-bit RISC-V core in SystemVerilog with config-gated out-of-order backend, SMT-2, multicore L2/L3 coherence and an optional AI matrix accelerator.
 - [lipsi](https://github.com/schoeberl/lipsi) - Probably the smallest processor in the world, implemented in Chisel.
 - [Lizard](https://github.com/cornell-brg/lizard) - Modular, out-of-order RISC-V processor built with PyMTL.
 - [Maestro](https://github.com/Artoriuz/maestro) - RISC-V RV32I processor implemented in VHDL.
